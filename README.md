@@ -43,7 +43,7 @@ We would like to thank all organizers, course leaders, and participants who have
 
 [Chris Chen](https://www.linkedin.com/in/chris-c-44414332/)
 
-Alpha Sow
+[Alpha Sow](https://www.linkedin.com/in/alpha-sow-26569420/)
 
 ### Boot Camp Coordinators
 
