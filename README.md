@@ -5,25 +5,25 @@ We would like to thank all organizers, course leaders, and participants who have
 
 ## Course Leaders Partnered with Participants to Teach 
 
-### Week1
+### [Week1-Python-Essentials-and-Data-Analysis](Week1-Python-Essentials-and-Data-Analysis)
 
 [Daniel Ma](https://www.linkedin.com/in/daniel-junxiao-ma-b8283391/)
 
 [Lei Xiao](https://www.linkedin.com/in/lei-xiao-eng-ds/)
 
-### Week2
+### [Week2-Linear-Models](Week2-Linear-Models)
 
 [Rohan Saha](https://www.linkedin.com/in/rohansaha60/)
 
 [Sourav Roy](https://www.linkedin.com/in/roysourab/)
 
-### Week3
+### [Week3-Decision-Trees-and-Bagging](Week3-Decision-Trees-and-Bagging)
 
 [Tim Gilbertson](https://www.linkedin.com/in/tim-gilbertson-9a42875a/)
 
 [Carolina Quiroz Juarez](https://www.linkedin.com/in/carolina-quiroz-ju%C3%A1rez-bb694523/)
 
-### Week4
+### [Week4-Boosting-and-XGBoost](Week4-Boosting-and-XGBoost)
 
 [Leyuan Yu](https://www.linkedin.com/in/leyuanyu/)
 
@@ -31,13 +31,13 @@ We would like to thank all organizers, course leaders, and participants who have
 
 [Weiwei Zhang](https://www.linkedin.com/in/weiwei-zhang-62323ba8/)
 
-### Week5
+### [Week5-SVM-KNN-Naive-Bayes](Week5-SVM-KNN-Naive-Bayes)
 
 [Hasan Badran](https://www.linkedin.com/in/hasan-badran/)
 
 [Hayden Fiege](https://www.linkedin.com/in/hayden-fiege-202166a4/)
 
-### Week6
+### [Week6-Unsupervised-Models-and-ML-Best-Practices](Week6-Unsupervised-Models-and-ML-Best-Practices)
 
 [Mehrsahd Esfahani](https://www.linkedin.com/in/mehrshadesfahani/)
 
