@@ -1,4 +1,4 @@
-# Course Reference Materials and Uploaded Video
+# Week1 Lecture Reference Materials and Uploaded Video
 
 [Visual Data Analysis from mlcourse.ai](https://github.com/Yorko/mlcourse.ai/tree/master/jupyter_english/topic02_visual_data_analysis)
 
